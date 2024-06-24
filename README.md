@@ -1,4 +1,5 @@
-|[logo](https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png)
+<div align="center">
+        <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" height="500" width="1200" alt="logo">
 <h1 align="center">Hi 👋, I'm Harshad Dudhabarve</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
