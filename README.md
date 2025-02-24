@@ -1,5 +1,9 @@
+
 <div align="center">
-  <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" width="100%" alt="header">
+  <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" 
+       width="80%" 
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);" 
+       alt="header">
 </div>
 
 <h1 align="center"> 
@@ -26,12 +30,88 @@
   </div>
 
   <!-- Stats Card -->
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-    <img src="https://github-readme-stats.vercel.app/api?username=nota63&show_icons=true&theme=algolia&count_private=true" alt="stats" style="width: 100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota63&theme=algolia" alt="streak" style="width: 100%">
+   <!-- Right Column -->
+  <div style="
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  ">
+    <!-- GitHub Stats -->
+    <h2 style="color: #2F3C7E; border-bottom: 2px solid #6F7DFF; padding-bottom: 0.5rem">
+      📊 Development Analytics
+    </h2>
+    <div style="display: grid; gap: 1.5rem; margin-top: 1.5rem">
+      <img src="https://github-readme-stats.vercel.app/api?username=nota63&show_icons=true&theme=algolia&include_all_commits=true" alt="stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota63&theme=algolia" alt="streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nota63&layout=compact&theme=algolia" alt="languages" />
+    </div>
+  </div>
+</div>
+
+
+<!-- GitHub Stats and Charts -->
+<!-- GitHub Stats and Charts -->
+<h2 align="center" style="margin: 2rem 0; font-family: Arial, sans-serif;">📊 GitHub Stats & Charts</h2>
+
+<!-- Grid Layout -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; max-width: 900px; margin: auto; padding: 20px;">
+
+  <!-- Contributions Graph -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">Contributions</h4>
+    <img src="https://ghchart.rshah.org/nota63" alt="Contributions Graph" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Contributions Heatmap -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">Contributions Heatmap</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nota63&theme=github_dark" alt="Contributions Heatmap" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Repositories Contributions -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">Repositories Contributions</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nota63&theme=github_dark" alt="Repositories Contributions" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Profile Achievements -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">Profile Achievements</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=nota63&theme=onestar&no-bg=true&no-frame=true&column=3" alt="Profile Achievements" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- GitHub Streak Stats -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">🔥 GitHub Streak</h4>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota63&theme=gruvbox_duo" alt="GitHub Streak" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Contribution Heatmap -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">🌡️ Contribution Heatmap</h4>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nota63&theme=tokyo-night&hide_border=true" alt="Contribution Heatmap" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Matrix Chart -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">🔢 Matrix Contribution Chart</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nota63&theme=dracula" alt="Matrix Chart" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- 3D GitHub Contribution Calendar -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <h4 style="font-family: Arial, sans-serif;">📅 3D GitHub Contribution Calendar</h4>
+    <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+      <img src="https://raw.githubusercontent.com/nota63/nota63/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" style="width: 100%; border-radius: 8px;">
+    </a>
   </div>
 
 </div>
+
+
+
 
 <!-- Tech Stack Section -->
 <h2 align="center" style="margin: 2rem 0">🛠 Tech Stack</h2>
@@ -48,11 +128,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<!-- Activity Graph -->
-<h2 align="center" style="margin: 2rem 0">📈 Coding Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nota63&theme=react-dark&bg_color=0D1117&hide_border=true" alt="activity">
-</div>
+
 
 <!-- Social Links -->
 <h2 align="center" style="margin: 2rem 0">🌐 Let's Connect</h2>
