@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" 
+  <img src="https://github.com/nota63/nota63/blob/main/Square%20Fit_2025222165953338%20(1).jpg" 
        width="80%" 
        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);" 
        alt="header">
