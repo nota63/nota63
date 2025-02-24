@@ -1,45 +1,78 @@
 <div align="center">
-        <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" height="450" width="1200" alt="logo">
-<h1 align="center">Hi 👋, I'm Harshad Dudhabarve</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+  <img src="https://github.com/nota63/nota63/blob/main/Light%20Blue%20Violet%20Modern%20Self%20Quote%20Affirmation%20Desktop%20Wallpaper.png" width="100%" alt="header">
+</div>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<h1 align="center"> 
+  <img src="https://em-content.zobj.net/thumbs/120/google/350/waving-hand_1f44b.png" width="35" height="35"/> Hi, I'm Harshad Dudhabarve
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nota63&label=Profile%20views&color=0e75b6&style=flat" alt="nota63" /> </p>
+<h3 align="center">Software Engineer | Full Stack Developer | Python Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nota63" alt="nota63" /></a> </p>
+<div align="center" style="margin: 40px 0">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F7DFF&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+functional+code;Passionate+about+clean+architecture;Continuous+learner+%26+problem+solver" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Glassmorphism Cards Section -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 2rem 0">
 
-- 🔭 I’m currently working on [Automation](available soon...)
+  <!-- Profile Card -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
+    <h2>🔭 Current Focus</h2>
+    <p>Building automation solutions with Python</p>
+    <h2>🌱 Learning Now</h2>
+    <p>Django | Advanced System Design</p>
+  </div>
 
-- 🌱 I’m currently learning **Django**
+  <!-- Stats Card -->
+  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; width: 300px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+    <img src="https://github-readme-stats.vercel.app/api?username=nota63&show_icons=true&theme=algolia&count_private=true" alt="stats" style="width: 100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota63&theme=algolia" alt="streak" style="width: 100%">
+  </div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nota63](https://github.com/nota63)
+</div>
 
-- 💬 Ask me about **Python,Django,Flask**
+<!-- Tech Stack Section -->
+<h2 align="center" style="margin: 2rem 0">🛠 Tech Stack</h2>
 
-- 📫 How to reach me **vishaldudhabarve105@gmail.com**
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-- ⚡ Fun fact **I am funny**
+<!-- Activity Graph -->
+<h2 align="center" style="margin: 2rem 0">📈 Coding Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nota63&theme=react-dark&bg_color=0D1117&hide_border=true" alt="activity">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/software_engineer4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="software_engineer4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshad dudhabarve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshad dudhabarve" height="30" width="40" /></a>
-<a href="https://codesandbox.com/harshad dudhabarve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harshad dudhabarve" height="30" width="40" /></a>
-<a href="https://fb.com/vishal dudhabarve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishal dudhabarve" height="30" width="40" /></a>
-<a href="https://instagram.com/software_engineer4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_engineer4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshad dudhabarve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshad dudhabarve" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshad dudhabarve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshad dudhabarve" height="30" width="40" /></a>
-</p>
+<!-- Social Links -->
+<h2 align="center" style="margin: 2rem 0">🌐 Let's Connect</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 2rem">
+  <a href="https://linkedin.com/in/harshad-dudhabarve" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/harshad-dudhabarve" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="mailto:vishaldudhabarve105@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Fun Section -->
+<div align="center" style="margin: 2rem 0">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kge7q5m5kq3e5q3e5q3e5q3e5q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nota63&show_icons=true&locale=en&layout=compact" alt="nota63" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nota63&show_icons=true&locale=en" alt="nota63" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nota63&" alt="nota63" /></p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nota63&label=Profile+Views&color=blue&style=flat" alt="profile views">
+</div>
